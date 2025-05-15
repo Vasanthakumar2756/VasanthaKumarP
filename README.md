@@ -1,5 +1,14 @@
 # 💫 About Me:
-FrontEnd Developer <br>Machine Learning Engineer<br>
+👋 Hi, I'm Vasantha Kumar P — a passionate Frontend Developer and Machine Learning Engineer who loves crafting seamless user experiences and building intelligent systems.
+
+💻 On the frontend, I enjoy turning complex problems into elegant, responsive interfaces using modern tools like React, Tailwind CSS, and TypeScript.
+🤖 On the ML side, I explore data-driven solutions, from predictive modeling to intelligent UI integrations using Python, TensorFlow, and scikit-learn.
+
+🔍 I'm always curious about how design, logic, and data come together — whether it's a sleek UI or a smart algorithm behind it.
+
+🚀 Currently working on projects that blend AI with real-world applications, with a focus on performance, usability, and scalability.
+
+Let's connect and build something impactful!
 
 
 ## 🌐 Socials:
